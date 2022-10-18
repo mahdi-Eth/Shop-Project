@@ -1,1 +1,0 @@
-import ImageLoader from 'image-loader';
